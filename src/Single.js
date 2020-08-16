@@ -23,7 +23,7 @@ function added() {
                                                         Why don't you get one now?</p>
                             </div>
                             <div class="col-12 p-3">
-                                <a href="#" class="btn btn-success link-buttons" onClick={added} ><i class="fa fa-cart-plus" aria-hidden="true" ></i> Add to cart</a>
+                                <Link to="#" class="btn btn-success link-buttons" onClick={added} ><i class="fa fa-cart-plus" aria-hidden="true" ></i> Add to cart</Link>
                             </div>
                         </div>
                     </div>
